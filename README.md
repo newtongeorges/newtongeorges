@@ -1,4 +1,4 @@
-<h1>NEWTON GEORGES <a href="https://linkedin.com/in/newtongeorges">IT Professional</a></h1>
+<h1>NEWTON GEORGES <a href="https://linkedin.com/in/newtongeorges">IT PROFESSIONAL</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
