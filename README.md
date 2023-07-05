@@ -1,4 +1,4 @@
-<h1>Hi, I'm Newton <a href="https://linkedin.com/in/newtongeorges">IT Professional</a></h1>
+<h1>Newton Georges <a href="https://linkedin.com/in/newtongeorges">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
